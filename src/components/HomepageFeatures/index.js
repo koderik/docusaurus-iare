@@ -4,38 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Get engaged',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Browse through our committees and find one that suits you. Find out more by contacting the committee or by attending one of our events.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Mental health',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We care about your mental health. If you need someone to talk to, we are here for you. Contact us at <a href="mailto:#">sektionsstyrelsen@iare.se</a>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Business',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We love to work with companies. If you are interested in working with us, please contact our Head of Corporate Relations at <a href="mailto:#">corporate@iare.se</a> and read more at our business page.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -53,6 +50,29 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
+        <div
+          style={{
+            position: 'relative',
+            paddingBottom: '75%',
+            height: 0
+          }}
+        >
+          <iframe
+            src="https://calendar.google.com/calendar/embed?src=iare.nu_pre97odp8btuq3u2a9i6u3fnbc%40group.calendar.google.com&ctz=Europe%2FStockholm&mode=AGENDA"
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%'
+            }}
+            frameBorder="0"
+            scrolling="no"
+          ></iframe>
+        </div>
+
+
+
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
