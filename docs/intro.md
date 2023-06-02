@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Overview
+# Översikt
 
-This is the section map!
+Det här är sektionskartan!
 
 ![map](../static//img/karta.png)
 
-You can browse all the committees in the sidebar!
+Du kan bläddra bland alla nämnder i sidofältet!

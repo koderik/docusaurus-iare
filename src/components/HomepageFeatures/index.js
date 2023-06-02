@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Get engaged',
+    title: 'Engagera dig',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Browse through our committees and find one that suits you. Find out more by contacting the committee or by attending one of our events.
+        Vill du engagera dig i sektionen? Kolla in våra <a href="/docs/intro">nämnder</a> och hitta en som passar dig!
       </>
     ),
   },
   {
-    title: 'Mental health',
+    title: 'Välmående',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        We care about your mental health. If you need someone to talk to, we are here for you. Contact us at <a href="mailto:#">sektionsstyrelsen@iare.se</a>
+        Vi vill att alla ska må bra. Läs mer om hur vi jobbar med <a href="/docs/intro">välmående</a> på sektionen.
       </>
     ),
   },
   {
-    title: 'Business',
+    title: 'För företag',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        We love to work with companies. If you are interested in working with us, please contact our Head of Corporate Relations at <a href="mailto:#">corporate@iare.se</a> and read more at our business page.
+        Vill du samarbeta med oss? Läs mer om hur vi jobbar med <a href="/docs/intro">företag</a> på sektionen.
       </>
     ),
   },

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Industrial Engineering and Management',
-  tagline: 'KTH Royal Institute of Technology',
+  title: 'Sektionen för Industriell Ekonomi',
+  tagline: 'Kungliga Tekniska Högskolan',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'sv',
+    locales: ['en', 'sv'],
   },
 
   presets: [
@@ -68,13 +68,17 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Committees',
+            label: 'Nämnder',
           },
-          { to: '/blog', label: 'News', position: 'left' },
-          { to: '/business', label: 'Business', position: 'left' },
+          { to: '/blog', label: 'Nyheter', position: 'left' },
+          { to: '/business', label: 'Företag', position: 'left' },
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
