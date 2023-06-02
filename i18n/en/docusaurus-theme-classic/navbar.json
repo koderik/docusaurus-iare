@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "I-Sektionen KTH",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Nämnder": {
+    "message": "Nämnder",
+    "description": "Navbar item with label Nämnder"
+  },
+  "item.label.Nyheter": {
+    "message": "Nyheter",
+    "description": "Navbar item with label Nyheter"
+  },
+  "item.label.Företag": {
+    "message": "Företag",
+    "description": "Navbar item with label Företag"
+  },
+  "item.label.Facebook": {
+    "message": "Facebook",
+    "description": "Navbar item with label Facebook"
+  }
+}

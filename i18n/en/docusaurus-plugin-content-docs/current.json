@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Näringsliv": {
+    "message": "Näringsliv",
+    "description": "The label for category Näringsliv in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Näringsliv.link.generated-index.description": {
+    "message": "The event cluster organizes events!",
+    "description": "The generated-index page description for category Näringsliv in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Event klustret": {
+    "message": "Event cluster",
+    "description": "This cluster organizes parties and events!"
+  },
+  "sidebar.tutorialSidebar.category.Event klustret.link.generated-index.description": {
+    "message": "This cluster organizes parties and events!",
+    "description": "The generated-index page description for category Event klustret in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Projekt": {
+    "message": "Projekt",
+    "description": "The label for category Projekt in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Projekt.link.generated-index.description": {
+    "message": "The event cluster organizes events!",
+    "description": "The generated-index page description for category Projekt in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sociala klustret": {
+    "message": "Sociala klustret",
+    "description": "The label for category Sociala klustret in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sociala klustret.link.generated-index.description": {
+    "message": "The event cluster organizes events!",
+    "description": "The generated-index page description for category Sociala klustret in sidebar tutorialSidebar"
+  }
+}
