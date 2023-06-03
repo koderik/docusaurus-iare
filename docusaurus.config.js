@@ -3,9 +3,13 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+require('dotenv').config()
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [
+    "docusaurus2-dotenv",
+  ],
   title: 'Sektionen för Industriell Ekonomi',
   tagline: 'Kungliga Tekniska Högskolan',
   url: 'https://your-docusaurus-test-site.com',

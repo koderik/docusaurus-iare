@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+// import hero from './hero.js';
 
 const FeatureList = [
   {
@@ -53,7 +54,7 @@ export default function HomepageFeatures() {
         <div
           style={{
             position: 'relative',
-            paddingBottom: '75%',
+            paddingBottom: '50%',
             height: 0
           }}
         >
