@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -11,7 +11,25 @@ import Hero from '../components/HomepageFeatures/hero'; // Import the Hero compo
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  const isDesktop = useMediaQuery({ minWidth: 800 }); // Check if screen width is greater than or equal to 768px
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(min-width: 800px)');
+    const handleMediaQueryChange = (event) => {
+      setIsDesktop(event.matches);
+    };
+
+    // Set the initial value
+    setIsDesktop(mediaQuery.matches);
+
+    // Listen for media query changes
+    mediaQuery.addEventListener('change', handleMediaQueryChange);
+
+    // Clean up the listener when the component unmounts
+    return () => {
+      mediaQuery.removeEventListener('change', handleMediaQueryChange);
+    };
+  }, []);
 
   return (
     <header
@@ -24,10 +42,10 @@ function HomepageHeader() {
         height: isDesktop ? '50vh' : '30vh', // Use different heights based on screen width
       }}
     >
-      
+
       <div className="container">
-        <div style={{ 
-        // set to vertical center
+        <div style={{
+          // set to vertical center
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
@@ -38,8 +56,8 @@ function HomepageHeader() {
         }}>
           <Hero />
         </div>
-        
-        
+
+
         <h1
           className="hero__title"
           style={{
@@ -48,9 +66,9 @@ function HomepageHeader() {
             // add brown 3d stroke to bottom left of text
             // make it drop font 
             textShadow: '2px 2px #7d5a3e',
-            
 
-               
+
+
           }}
         >
           {siteConfig.title}
