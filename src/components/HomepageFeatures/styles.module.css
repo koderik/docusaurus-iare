@@ -9,3 +9,27 @@
   height: 200px;
   width: 200px;
 }
+
+
+.eventCard {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.eventCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.eventCard h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.eventCard p {
+  margin: 0;
+}
