@@ -8,7 +8,12 @@ require('dotenv').config()
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   plugins: [
-    "docusaurus2-dotenv",
+    [
+      "docusaurus2-dotenv",
+      {
+        systemvars: true,
+      },
+    ],
   ],
   title: 'Sektionen för Industriell Ekonomi',
   tagline: 'Kungliga Tekniska Högskolan',
