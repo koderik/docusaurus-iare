@@ -9,7 +9,7 @@ Vår styrelse
 ## Ordförande
 Edvin
 ## Vice ordförande
-Frida
+Frida är vice
 
 ## Kassör
 Axel
