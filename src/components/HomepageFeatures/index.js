@@ -8,7 +8,7 @@ import { EventCalendar } from './calendar';
 const FeatureList = [
   {
     title: 'Engagera dig',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    img: require('@site/static/img/reception.jpg').default,
     description: (
       <>
         Vill du engagera dig i sektionen? Kolla in våra <a href="/docs/intro">nämnder</a> och hitta en som passar dig!
@@ -17,7 +17,7 @@ const FeatureList = [
   },
   {
     title: 'Välmående',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    img: require('@site/static/img/pride.jpg').default,
     description: (
       <>
         Vi vill att alla ska må bra. Läs mer om hur vi jobbar med <a href="/docs/intro">välmående</a> på sektionen.
@@ -26,21 +26,23 @@ const FeatureList = [
   },
   {
     title: 'För företag',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    img: require('@site/static/img/dinner.jpg').default,
+
     description: (
       <>
-        Vill du samarbeta med oss? Läs mer om hur vi jobbar med <a href="/docs/intro">företag</a> på sektionen.
+        Vill du samarbeta med oss? Läs mer om hur vi jobbar med <a href="/business">företag</a> på sektionen.
       </>
     ),
   },
 ];
 
 
-function Feature({ Svg, title, description }) {
+function Feature({ img, title, description }) {
+  console.log(img)
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img role="img" src={img}/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
