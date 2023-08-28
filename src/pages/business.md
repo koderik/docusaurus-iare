@@ -1,2 +1,33 @@
 # För företag
-Vi är dumma i huvudet och alla hatar oss!
+
+Vill ert företag komma i kontakt med Iare? Vi erbjuder många samarbetsmöjligheter, här nedan listar vi våra vanligaste kontaktvägar/event, men vi kommer gärna på nya idéer tillsammans med er!​
+
+### Lunchföreläsning
+​​Lunchföreläsningarna brukar vara mycket uppskattade av studenterna. Ni håller en presentation under lunchen (kl. 12:15-13:00) för cirka 50-80 studenter samtidigt som de äter en enklare lunch. Vad ni vill prata om på föreläsningen är helt upp till er och ni kan även välja vilken typ av mat som serveras. På lunchföreläsningen kan ni exempelvis presentera företaget, hur en vanlig dag ser ut eller berätta om öppna positioner.​ Vill ni veta mer, kontakta eventgruppen på event.naringsliv@iare.nu ​
+
+### Annonsering
+​Ett mycket bra sätt att nå ut till många studenter är att annonsera på våra sociala medier. Vi erbjuder annonser i Sektionsengagemang för Industriell Ekonomi med över 2000 medlemmar, mailutskick till specifika årskurser eller annonser här på hemsidan. Kontakta näringslivsnämnden på naringsliv@iare.nu​
+
+### Dagen I
+Dagen I är sektionen för Industriell Ekonomis egna arbetsmarknadsdag. Under arbetsmarknadsdagarna hålls ett antal evenemang såsom frukost- och lunchföreläsningar samt workshops både på KTH Campus och på plats hos företagen. Arbetsmarknadsdagarna avslutas med en mässa och en festlig bankett för både företagsrepresentanter och I-studenter.
+
+Kontakt: Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se, kontakta projektledaren på projektledare@dageni.se eller näringslivsansvariga på naringsliv@dageni.se.
+
+### I-Case
+Denna nämnd fokuserar på Case event, både i form av interna casekvällar och företagsevent. Företagsevent kan ta flera olika former, vanligast är att de hålls på företagets kontor men det finns också möjlighet att hålla dem i KTHs lokaler. Nämnden består av två delar, I-Case Aspire vilket är den yngre gruppen och I-Case advanced vilket är den mer erfarna gruppen. Eventen hålls under kvällstid (ca 17:30-21) och avslutas alltid med middag tillsammans med företaget. Kontakta oss på i-case@iare.nu.
+
+### I-Start
+iStart är en nämnd som fokuserar på att främja innovation och kunskap om egenföretagande för studenterna på sektionen. Vi riktar oss därför till företag i startup-fas till medelstora företag, och välkomnar dessa till olika typer av samarbeten såsom workshops, lunchföreläsningar, kvällsevent och studiebesök mm. där man får möjlighet att träffa studenterna och främja kunskapen både om erat företag men även våran nämnds kärnfokus av entreprenörskap, innovation och vägen till att starta eget. Vid intresse för samarbete, kontakta oss på istart@iare.nu.
+
+
+
+
+| Typ av samarbete                            | Kontaktuppgifter                     |
+| ------------------------------------------ | ----------------------------------- |
+| Lunchföreläsning/event                      | event.naringsliv@iare.nu            |
+| Annonsering                                 | naringsliv@iare.nu                  |
+| Dagen I (arbetsmarknadsmässa)               | naringsliv@dageni.se                |
+| Case-event                                  | i-case@iare.nu                      |
+| Start-ups                                  | istart@iare.nu                       |
+| Näringslivsansvarig i Mottagningen          | naringsliv.mottagningen@iare.nu     |
+| Övriga samarbeten/frågor                   | naringslivsansvarig@iare.nu         |
