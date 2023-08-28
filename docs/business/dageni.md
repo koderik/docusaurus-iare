@@ -15,5 +15,5 @@ examen.
 
 Kontakt om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se,
 kontakta projektledaren på projektledare@dageni.se eller näringslivsansvariga på naringsliv@dageni.se.
-#### Projektledare Dagen I 2022/2023
-#### Tara Josefsson
+#### Projektledare Dagen I 2023/2024
+#### Ellinor Schmekel
