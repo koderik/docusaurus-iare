@@ -34,16 +34,17 @@ function EventCalendar() {
     const [events, setEvents] = useState([]);
 
     useEffect(() => {
+
         const apiKey = process.env.CALENDAR_KEY;
         const calendarId = process.env.CALENDAR_ID;
         const beginningOfYearISO = new Date(new Date().getFullYear(), 0, 1).toISOString();
 
         const url = `https://www.googleapis.com/calendar/v3/calendars/${calendarId}/events?key=${apiKey}&timeMin=${beginningOfYearISO}`;
+        
 
         const currentDate = new Date();
         const currentYear = currentDate.getUTCFullYear();
         const currentMonth = String(currentDate.getUTCMonth() + 1).padStart(2, '0');
-
         axios.get(url)
             .then(response => {
                 const eventData = response.data.items.map(item => ({
@@ -53,9 +54,11 @@ function EventCalendar() {
                     start: item.start && (item.start.dateTime || item.start.date),
                     end: item.end && (item.end.dateTime || item.end.date),
                 }));
+                // beginning of this month
+                const month_begin = new Date(currentYear, currentMonth - 1, 1).getTime();
+                const month_end = new Date(currentYear, currentMonth, 1).getTime();
+                
 
-                const month_begin = new Date(currentYear, currentMonth, 1).getTime();
-                const month_end = new Date(currentYear, currentMonth + 2, 1).getTime();
 
                 const upcomingEvents = eventData.filter(event => {
                     const eventTimestamp = new Date(event.start).getTime();
