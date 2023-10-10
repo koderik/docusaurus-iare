@@ -1,4 +1,4 @@
-# Sektionens officiella fixar-team
+# SOFt
 
 __Vad är SOFt?__
 
