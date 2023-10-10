@@ -10,5 +10,7 @@ Styrelsen är ansiktet utåt för vår sektion och vi har därför mycket kontak
 
 Styrelsen träffas flera gånger i veckan och sammanträder officiellt fem gånger om året. Våra möten är öppna för alla och sektionsmedlemmar är varmt välkomna att närvara eller lyfta frågor till oss
 Axel
+asjdnalksldma
+as
 
 
