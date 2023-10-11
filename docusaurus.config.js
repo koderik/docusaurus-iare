@@ -81,6 +81,13 @@ const config = {
           },
           { to: '/blog', label: 'Nyheter', position: 'left' },
           { to: '/business', label: 'Företag', position: 'left' },
+          
+          { 
+            href: 'https://pubquery.se/',
+            label: 'PubQuery', 
+            position: 'right' 
+          },
+          
           {
             href: 'https://www.facebook.com/groups/1695683603989665',
             label: 'Facebook',
