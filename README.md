@@ -19,4 +19,4 @@ git add *
 git commit -m "Jag ändrade bla bla bla"
 git push
 ```
-
+DU SKA INTE GÖRA SÅHÄR^ på main!
