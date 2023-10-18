@@ -17,3 +17,5 @@ Skicka gärna ett mail eller ring om du vill höra mer eller är intresserade av
 __Ordförande__
 
 Bawar Fareek Shekh, I-21
+
+<img src={require("/static/img/Bawar.jpg").default} width="230"/>

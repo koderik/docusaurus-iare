@@ -8,4 +8,4 @@ Portergeneral
 Erik Sandlöv, I-21
 portergeneralen@iare.nu
 
-![Erik](/img/Erik.jpg)
+<img src={require("/static/img/Erik.jpg").default} width="230"/>

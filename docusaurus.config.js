@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus. Samt blod, svett och tårar av I-T gruppen`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus, samt blod, svett och tårar av I-T gruppen.`,
       },
       prism: {
         theme: lightCodeTheme,

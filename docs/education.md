@@ -17,3 +17,5 @@ Kram Studienämnden
 __Ordförande__
 
 Lisa Etzell, I-21, sno@iare.nu
+
+<img src={require("/static/img/Lisa.jpg").default} width="230"/>

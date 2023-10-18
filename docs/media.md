@@ -9,3 +9,5 @@ KMN består av fyra grupper som ser till att sektionens kommunikation och ansikt
 __Reporter__
 
 Thea Averskog, I-22, reporter@iare.nu
+
+<img src={require("/static/img/Thea.jpg").default} width="230"/>

@@ -18,3 +18,5 @@ __Ordförande__
 
 Alexandra Schwalbe, I-22, naringsliv@iare.nu
 
+<img src={require("/static/img/Alexandra.jpg").default} width="230"/>
+
