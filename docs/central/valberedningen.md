@@ -11,3 +11,5 @@ Valberedningen lägger stor vikt vid att bibehålla integriteten hos alla sökan
 
 Ordförande
 Atle Johansson, I-21 valberedningen@iare.nu
+
+<img src={require("/static/img/Atle.png").default} width="230"/>

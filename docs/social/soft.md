@@ -10,3 +10,5 @@ __Ordförande__
 
 Sakarias Åman Rosengren, I-22, soft@iare.nu
 
+<img src={require("/static/img/Sakarias.jpg").default} width="230"/>
+

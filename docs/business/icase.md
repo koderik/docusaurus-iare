@@ -23,7 +23,7 @@ Intresserad av att etablera ett samarbete? Kontakta i-case@iare.nu så ser vi fr
 
 Har du frågor om I-Case? Vi är alltid tillgängliga!
 
-Ordöfrande, Tilda Friberg, I-22
+Ordförande, Tilda Friberg, I-22
 
-
+<img src={require("/static/img/Tilda.jpg").default} width="230"/>
 

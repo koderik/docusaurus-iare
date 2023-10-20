@@ -16,3 +16,4 @@ Kulturattaché Selma Hagelin, I-22
 
 kultur@iare.nu
 
+<img src={require("/static/img/Selma.jpg").default} width="230"/>

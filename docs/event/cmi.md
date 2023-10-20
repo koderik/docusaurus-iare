@@ -22,3 +22,5 @@ För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på cl
 Jesper Flygar, I-21
 Leif Malmus, I-21
 Emma Swartling, I-21
+
+<img src={require("/static/img/Klara.jpg").default} width="230"/>

@@ -9,3 +9,5 @@ Styrelsen för Internationella gruppen består i år av sex personer
 __Ordförande__ 
 
 Oliver Folke, I-22
+
+<img src={require("/static/img/Oliver.jpg").default} width="230"/>
