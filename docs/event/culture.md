@@ -10,9 +10,11 @@ Som medlem i Kulturnämnden blir du en del av en tajt projektgrupp där vi tills
 
 Vill du liksom oss förgylla varje I-ares studietid med spännande och nytänkande event har du hittat helt rätt! Hoppas vi ses på våra event under året!
 
-Kulturnämnden genom
 
-Kulturattaché Selma Hagelin, I-22
+
+## Kulturattaché
+
+__Selma Hagelin__ I-22
 
 kultur@iare.nu
 
