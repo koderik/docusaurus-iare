@@ -40,7 +40,7 @@ function EventCalendar() {
         const beginningOfYearISO = new Date(new Date().getFullYear(), 0, 1).toISOString();
 
         const url = `https://www.googleapis.com/calendar/v3/calendars/${calendarId}/events?key=${apiKey}&timeMin=${beginningOfYearISO}`;
-        
+
 
         const currentDate = new Date();
         const currentYear = currentDate.getUTCFullYear();
