@@ -1,5 +1,5 @@
 ---
-title: Bnut
+title: Bnut Bovesjö
 ---
 no knut november
 
