@@ -26,7 +26,7 @@ I rollen som revisor kan man även lämna både feedback och förslag till andra
 För att komma i kontakt med revisionen kan du kontakta revisorerna på revisorer@iare.nu
 
 #### Revisorer,
-Johan Svensson, I-22 Max Kenning, I-21 
+__Johan Svensson__, I-22 __Max Kenning__, I-21 
 
 
 
