@@ -7,4 +7,6 @@ Om du gillar studentliv, gemenskap och framför allt om du gillar att ha kul så
 
 Spexdirecteur och nämndansvarig 2023/2024 är Alma Gunnarsson, I-21. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.se.
 
-iSpexet – för ett riktigt roligt och studentikost år på KTH!
+*iSpexet – för ett riktigt roligt och studentikost år på KTH!*
+
+<img src={require("/static/img/Alma.jpg").default} width="230"/>
