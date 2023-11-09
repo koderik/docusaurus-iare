@@ -15,4 +15,6 @@ Engagemang i I-Alumni innebär varierande arbete med många olika typer av proje
 
 ### Ordförande
 
-Oliver Westfahl Knezevic, I-21 alumni@iare.nu
+__Richard Ericson__ I-22 alumni@iare.nu
+
+<img src={require("/static/img/Richard.jpg").default} width="230"/>

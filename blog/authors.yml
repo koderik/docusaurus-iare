@@ -2,11 +2,17 @@ it:
   name: IT Gruppen
   title: Vi fixar hemsidan
   url: https://github.com/koderik
-  image_url: https://github.com/koderik.png
+  image_url: https://www.google.com/search?sca_esv=572214004&rlz=1C1CHBD_svSE1021SE1021&sxsrf=AM9HkKn31rMovUq27KuW3q-k7j8yB8gn9Q:1696957525848&q=meme&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi2rJu0--uBAxV8RvEDHQpVAyAQ0pQJegQIDRAB&biw=1536&bih=739&dpr=1.25#imgrc=yVneuuLbmZNtqM
 
 nln:
   name: Näringslivsnämnden
   title: Vi sköter kontakten med näringslivet
+  url: https://ikea.com
+  image_url: https://github.com/yangshun.png
+
+cmi:
+  name: Klubbmästeriet
+  title: Vi sköter krökandet
   url: https://ikea.com
   image_url: https://github.com/yangshun.png
 
