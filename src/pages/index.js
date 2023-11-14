@@ -1,3 +1,6 @@
+//Modul som står för förstasidan, importerar från homepagefeatures, som står för "kommande event" delen.
+//Inehåller också HomepageHeader modulen, borde nog egentligen vara separat.
+//importerar också Hero, vilket står för att loggan ändrar färg när man öppnar sidan
 import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';

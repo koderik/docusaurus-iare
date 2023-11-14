@@ -1,3 +1,5 @@
+//Verkar inte användas, från vad jag förstår verkar det vara en modul för att hålla koll på datum, och importerar från
+//axios, som typ är nån request modul å clsx som är nån excel modul?
 import React, { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
