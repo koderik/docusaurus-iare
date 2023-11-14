@@ -18,6 +18,5 @@ Lägg till förändringar *kan va bra att göra en fork innan*
 git add *
 git commit -m "Jag ändrade bla bla bla"
 git push
-git checkout
 ```
 
