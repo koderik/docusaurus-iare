@@ -1,3 +1,5 @@
+//Verkar vara nåt prefab, vet inte riktigt vad det gör, men verkar vara nån sorts animation
+
 import React, { useState, useEffect } from "react";
 import { useSpring, animated } from "react-spring";
 

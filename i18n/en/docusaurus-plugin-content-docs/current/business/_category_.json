@@ -1,8 +1,8 @@
 {
-  "label": "Näringsliv",
+  "label": "Business cluster",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "The event cluster organizes events!",
+    "description": "The event cluster organizes events!"
   }
 }
