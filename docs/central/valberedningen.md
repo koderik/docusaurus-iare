@@ -9,5 +9,8 @@ När valberedningen har intervjuat alla kandidater till en viss post tar de fram
 Valberedningen modererar själva valen under tillhörande sektionsmöte där alla kandidater får hålla anföranden och förtroendeväljs sedan av de sektionsmedlemmarna som närvarar. Det går även att ställa upp till en post på plats.
 Valberedningen lägger stor vikt vid att bibehålla integriteten hos alla sökande och att sköta processen så opartiskt och lika för alla som möjligt. Valberedningens intervjuer är till för att förbereda kandidaten för SM och är en chans att bolla idéer inför sitt anförande och ställa frågor. Valberedningen använder intervjun som underlag för att sammanställa en förordan till varje post – en mycket svår uppgift då alla sökande sektionsmedlemmar på I-Sektionen oftast är högst lämpliga – och det är värt att påpeka att det är sektionen som i slutändan väljer den förtroendevalde och valberedningen uppmuntrar därför samtliga kandidater att fortsätta sin kandidatur oavsett vem som blev förordad.
 
-Ordförande
-Atle Johansson, I-21 valberedningen@iare.nu
+### Ordförande
+
+__Atle Johansson__ I-21 valberedningen@iare.nu
+
+<img src={require("/static/img/Atle.png").default} width="230"/>

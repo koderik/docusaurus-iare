@@ -19,6 +19,8 @@ Viktigt att veta är att fixa sittningar och pubar är minst lika kul som att g�
 För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på clubmasteriet@iare.nu
 
 ### Clubmästare,
-Jesper Flygar, I-21
-Leif Malmus, I-21
-Emma Swartling, I-21
+__Jesper Flygar__ I-21
+__Leif Malmus__ I-21
+__Emma Swartling__ I-21
+
+<img src={require("/static/img/Klara.jpg").default} width="230"/>

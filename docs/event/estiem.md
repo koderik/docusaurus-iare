@@ -12,4 +12,6 @@ Vill du kontakta ESTIEM kan du nå ordförande på estiem@iare.nu eller vice ord
 
 #### Ordförande
 
-Emil Lilja, I-22 estiem@iare.nu
+__Emil Lilja__ I-22 estiem@iare.nu
+
+<img src={require("/static/img/Emil.jpg").default} width="230"/>
