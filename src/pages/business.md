@@ -10,7 +10,7 @@ Vill ert företag komma i kontakt med Iare? Vi erbjuder många samarbetsmöjligh
 
 ### Dagen I
 Dagen I är sektionen för Industriell Ekonomis egna arbetsmarknadsdag. Under arbetsmarknadsdagarna hålls ett antal evenemang såsom frukost- och lunchföreläsningar samt workshops både på KTH Campus och på plats hos företagen. Arbetsmarknadsdagarna avslutas med en mässa och en festlig bankett för både företagsrepresentanter och I-studenter.
-mkjkj
+
 Kontakt: Om du är intresserad av att veta mer om Dagen I kan du antingen besöka www.dageni.se, kontakta projektledaren på projektledare@dageni.se eller näringslivsansvariga på naringsliv@dageni.se.
 
 ### I-Case
