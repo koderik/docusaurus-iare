@@ -117,17 +117,25 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/IndustriellEkonomiKTH?locale=sv_SE',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Industriell ekonomi',
+                href: 'https://www.kth.se/utbildning/civilingenjor/industriell-ekonomi/industriell-ekonomi-civilingenjor-300-hp-1.4891'
+
               },
+
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Kravallen',
+                href: 'https://kravallen.se/'
+              },  
+
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/isektionen_kth/',
               },
+
             ],
           },
           {
@@ -139,7 +147,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/isektionen',
               },
             ],
           },
