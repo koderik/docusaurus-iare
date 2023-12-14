@@ -1,6 +1,6 @@
 # Dagen-I
-Dagen I is the Industrial Economics section's own labor market day. The organization is a committee
-within the section since 2011 to give students from the civil engineering program and the master program in
+Dagen I is the Industrial Economics chapter's own labor market day. The organization is a committee
+within the chapter since 2011 to give students from the civil engineering program and the master program in
 Industrial Management the opportunity to meet companies and different employers. This gives "I-students"
 the opportunity to build valuable relationships for the future. It is also the place where companies have
 opportunity to reach out and meet top students from the I program.
@@ -17,5 +17,3 @@ Contact If you are interested in knowing more about Dagen I, you can either visi
 contact the project manager at projektledare@dageni.se or the business officers at naringsliv@dageni.se.
 #### Project Manager Day I 2023/2024
 #### Ellinor Schmekel
-
-Translated with www.DeepL.com/Translator (free version)

@@ -1,12 +1,12 @@
 # iSpexet
 
 
-iSpexet är Industriell ekonomis sektionsspex och bildades år 1997. Ett spex är en studentikos form av teater fylld till brädden med musik, humor och publikinteraktion, eller som vi brukar säga: teater fast roligt! Från början var iSpexet ett gyckel på sektionens årliga finsittning Porters Gasque men växte och blev större för varje år. Det sägs att gycklet till slut blev för långt så att ingen orkade lyssna och fick då istället bli sin egen föreställning. Sedan 2001 spelas spexen varje år på en riktig teater. iSpexet består av ett flertal grupper med ansvar för olika områden; skådespel, körsång, scenrekvisita, manusskrivning, kostymer, marknadsföring och mycket mer därtill. Tillsammans arbetar de drygt tio grupperna kontinuerligt mot vinterns årliga julspel och sen mot årets stora höjdpunkt: PORTERS SPEX, då iSpexet flyttar in på en teater i Stockholm under en vecka. iSpexet anordnar under året flera olika event, däribland internsittningar (fixade av vår egen festgrupp Qualas), genomdrag, pubar och annat skoj!
+iSpexet is Industrial Economics' chapter spex and was formed in 1997. A spex is a student's form of theater filled to the brim with music, humor and audience interaction, or as we usually say: fun theater! From the beginning, iSpexet was a joke at the chapter's annual fine dining Porters Gasque but grew and got bigger every year. It is said that in the end the joke got too long so that no one could bear to listen and instead had to become their own show. Since 2001, the spex has been played every year in a real theatre. iSpex consists of several groups with responsibility for different areas; acting, choral singing, stage props, script writing, costumes, marketing and much more besides. Together, the roughly ten groups work continuously towards the winter's annual Christmas play and then towards the big highlight of the year: PORTERS SPEX, when iSpexet moves into a theater in Stockholm for a week. iSpexet organizes several different events during the year, including sit-ins (fixed by our own party group Qualas), walk-throughs, pubs and other fun!
 
-Om du gillar studentliv, gemenskap och framför allt om du gillar att ha kul så är iSpexet gruppen för dig!
+If you like student life, community and above all if you like to have fun, then iSpexet is the group for you!
 
-Spexdirecteur och nämndansvarig 2023/2024 är Alma Gunnarsson, I-21. För mer information om iSpexet, besök vår Facebooksida eller www.ispexet.se.
+Spex director and committee manager 2023/2024 is Alma Gunnarsson, I-21. For more information about iSpexet, visit our Facebook page or www.ispexet.se.
 
-*iSpexet – för ett riktigt roligt och studentikost år på KTH!*
+*iSpexet – for a really fun and student-friendly year at KTH!*
 
 <img src={require("/static/img/Alma.jpg").default} width="230"/>

@@ -38,5 +38,21 @@
   "copyright": {
     "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.title.Kanaler": {
+    "message": "Kanaler",
+    "description": "The title of the footer links column with title=Kanaler in the footer"
+  },
+  "link.title.Facebook": {
+    "message": "Facebook",
+    "description": "The title of the footer links column with title=Facebook in the footer"
+  },
+  "link.title.Github": {
+    "message": "Github",
+    "description": "The title of the footer links column with title=Github in the footer"
+  },
+  "link.title.KTH": {
+    "message": "KTH",
+    "description": "The title of the footer links column with title=KTH in the footer"
   }
 }

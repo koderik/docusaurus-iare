@@ -13,9 +13,14 @@
   --ifm-color-primary-light: #896344;
   --ifm-color-primary-lighter: #906847;
   --ifm-color-primary-lightest: #a37551;
-  --ifm-background-color: #fffff7;
+  --ifm-background-color: #eae9eb;
 }
-
+.footer__title {
+  color: #896344;
+}
+.footer__copyright{
+  color: #583f2b;
+}
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #d5d3d7;

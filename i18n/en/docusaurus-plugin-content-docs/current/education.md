@@ -19,5 +19,3 @@ Hugs to the Study Board
 Lisa Etzell__ I-21, sno@iare.nu
 
 <img src={require("/static/img/Lisa.jpg").default} width="230"/>
-
-Translated with www.DeepL.com/Translator (free version)
