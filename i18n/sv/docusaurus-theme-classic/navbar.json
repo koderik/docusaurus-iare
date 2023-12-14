@@ -7,44 +7,32 @@
     "message": "My Site Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Mentions": {
-    "message": "Mentions",
-    "description": "Navbar item with label Mentions"
-  },
-  "item.label.News": {
-    "message": "News",
-    "description": "Navbar item with label News"
-  },
-  "item.label.Company": {
-    "message": "Company",
-    "description": "Navbar item with label Company"
-  },
-  "item.label.Facebook": {
-    "message": "Facebook",
-    "description": "Navbar item with label Facebook"
-  },
   "item.label.Nämnder": {
-    "message": "Commitees",
+    "message": "Nämnder",
     "description": "Navbar item with label Nämnder"
   },
   "item.label.Nyheter": {
-    "message": "News",
+    "message": "Nyheter",
     "description": "Navbar item with label Nyheter"
   },
   "item.label.Företag": {
-    "message": "For businesses",
+    "message": "Företag",
     "description": "Navbar item with label Företag"
   },
   "item.label.Om sektionen": {
-    "message": "About the chapter",
+    "message": "Om sektionen",
     "description": "Navbar item with label Om sektionen"
   },
   "item.label.Trygghetsfunktioner": {
-    "message": "Safety functions & well being",
+    "message": "Trygghetsfunktioner",
     "description": "Navbar item with label Trygghetsfunktioner"
   },
   "item.label.PubQuery": {
     "message": "PubQuery",
     "description": "Navbar item with label PubQuery"
+  },
+  "item.label.Facebook": {
+    "message": "Facebook",
+    "description": "Navbar item with label Facebook"
   }
 }

@@ -15,6 +15,6 @@ As one of the board's 70 members, you will be invited to several events during t
 
 ### Organization
 
-I-Case as an organization consists of a board that works hard to connect students at the I-section to potential future employers. We always recruit the first place to secure the board's future. As a member, no voluntary work is required, but the requirements for a member are presence at the events, a cheerful mood and curiosity!
+I-Case as an organization consists of a board that works hard to connect students at the I-chapter to potential future employers. We always recruit the first place to secure the board's future. As a member, no voluntary work is required, but the requirements for a member are presence at the events, a cheerful mood and curiosity!
 
 ### Contact

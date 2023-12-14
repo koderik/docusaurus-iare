@@ -4,34 +4,42 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 import axios from 'axios';
 import { EventCalendar } from './calendar';
+import Translate from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'Engagera dig',
+    title: <Translate>Engagera dig</Translate>,
     img: require('@site/static/img/reception.jpg').default,
     description: (
       <>
-        Vill du engagera dig i sektionen? Kolla in våra <a href="/docs/intro">nämnder</a> och hitta en som passar dig!
+        <Translate>Vill du engagera dig i sektionen? Kolla in våra</Translate><a href="/docs/intro"><Translate>nämnder</Translate></a><Translate>och hitta en som passar dig!</Translate>
       </>
     ),
   },
   {
-    title: 'Välmående',
+    title: <Translate>Välmående</Translate>,
     img: require('@site/static/img/pride.jpg').default,
     description: (
-      <>
-        Vi vill att alla ska må bra. Läs mer om hur vi jobbar med <a href="/docs/intro">välmående</a> på sektionen.
-      </>
+    
+    
+    <>
+    <Translate>Vi vill att alla ska må bra. Läs mer om hur vi jobbar med</Translate><a href="/docs/intro"><Translate>välmående</Translate></a> <Translate>på sektionen.</Translate>
+    </>
+      
     ),
   },
   {
-    title: 'För företag',
+    title: <Translate>För företag</Translate>,
     img: require('@site/static/img/dinner.jpg').default,
 
     description: (
-      <>
-        Vill du samarbeta med oss? Läs mer om hur vi jobbar med <a href="/business">företag</a> på sektionen.
-      </>
+    
+    <>
+      <Translate>Vill du samarbeta med oss? Läs mer om hur vi jobbar med</Translate>
+        <a href="/business"><Translate>företag</Translate></a> <Translate>på sektionen.</Translate>
+    </>
+      
+      
     ),
   },
 ];
@@ -60,7 +68,9 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <h2>
+          <Translate>
           Kommande evenemang
+          </Translate>
         </h2>
         <EventCalendar />
 

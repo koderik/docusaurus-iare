@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Centrala funktioner": {
+    "message": "Centrala funktioner",
+    "description": "The label for category Centrala funktioner in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Näringsliv": {
+    "message": "Näringsliv",
+    "description": "The label for category Näringsliv in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Eventklustret": {
+    "message": "Eventklustret",
+    "description": "The label for category Eventklustret in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Projekt": {
+    "message": "Projekt",
+    "description": "The label for category Projekt in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sociala klustret": {
+    "message": "Sociala klustret",
+    "description": "The label for category Sociala klustret in sidebar tutorialSidebar"
+  }
+}
